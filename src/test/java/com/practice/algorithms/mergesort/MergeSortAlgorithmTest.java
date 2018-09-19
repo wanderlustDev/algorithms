@@ -1,6 +1,5 @@
-package com.practice.algorithms.mergesortalgorithm;
+package com.practice.algorithms.mergesort;
 
-import com.practice.algorithms.mergesort.MergeSortAlgorithm;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
