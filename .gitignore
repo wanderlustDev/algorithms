@@ -1,1 +1,5 @@
 .idea
+*.bin
+.gradle/*
+target/*
+.DS_Store
