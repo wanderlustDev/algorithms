@@ -1,2 +1,2 @@
 # algorithms
-Basic sorting, searching and other general algorithms
+Basic sorting, searching and other general algorithms.
